@@ -8,6 +8,6 @@ public class Home {
  
     @RequestMapping("/")
     public String home(){
-        return "你好，欢迎使用Visual Studio Code!ddssjaflkdjflk";
+        return "你好，欢迎使用Visual Studio Code!ddddssjaflkdjflk";
     }
 }
